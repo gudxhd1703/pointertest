@@ -1,0 +1,2 @@
+# pointertest
+in*decrease pointer
